@@ -1,5 +1,7 @@
 # Growing Agile Certificate Generator
 
-to use this, create a CSV file with each name on a single line
+to use this, create a CSV file with each name on a single line and named `names.csv`
+
 then run the script with `python ga-cert.py`
+
 this should create the output pdfs in the same directory named with the file named with their name
